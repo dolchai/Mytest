@@ -1,1 +1,1 @@
-wget https://www.apache.org/dyn/closer.lua/airflow/2.9.2/apache-airflow-2.9.2-source.tar.gz
+wget https://dlcdn.apache.org/airflow/2.9.2/apache-airflow-2.9.2-source.tar.gz
